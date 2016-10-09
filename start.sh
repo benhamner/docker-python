@@ -1,6 +1,5 @@
-# from https://github.com/jupyter/docker-stacks/tree/master/base-notebook
-
 #!/bin/bash
+# from https://github.com/jupyter/docker-stacks/tree/master/base-notebook
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 
